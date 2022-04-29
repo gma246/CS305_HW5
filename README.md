@@ -2,4 +2,4 @@
 
 This is for the CS305 HW5 Assignment.
 
-GNU public license V3 is being used for the license: 
+GNU General Public License v3.0 is being used for the license: 
